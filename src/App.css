@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,51 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .slide {
+  width: 1000px;
+} */
+
+/* .main {
+  background-image: url(https://f.nooncdn.com/mpcms/EN0001/assets/35ed38ac-b1f1-4d24-a7c3-a21aafc803c0.png);
+  width: 300px;
+} */
+
+/* .other {
+  display: inline-block;
+  width: 100px;
+} */
+
+.upper {
+  margin-left: -123px;
 }
+
+.slide {
+  margin-left: -110px;
+  width: 1010px;
+}
+
+.other {
+  display: flex;
+  margin-left: 30px;
+}
+
+.img {
+  width: 225px;
+}
+
+.imgarr {
+  width: 112px;
+  padding: 15px;
+}
+
+.afterslide {
+  background-color: wheat;
+  margin-top: -5px;
+}
+
+
+
+
+
